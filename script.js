@@ -1,6 +1,6 @@
 //  Shaheen Shenwari Resturant database.
-let resturant = [
-    resturantName = "SHAHEEN SHANWARI",
+let restaurant = [
+    restaurantName = "SHAHEEN SHANWARI",
     cheif = [
         {
             name: "Irfan",
