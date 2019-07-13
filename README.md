@@ -1,1 +1,1 @@
-# rasturant = https://fnaz40.github.io/rasturant/
+# rasturant =  https://fnaz40.github.io/restaurant/
