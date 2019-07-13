@@ -425,7 +425,7 @@ let restaurant = [
                     dishes: ["jjcdhjc", "dhjwgd", "jhdvchs"],
                     howMuchTime: "3year",
                     timing: "4pm-9pm",
-                    hours: 5,
+                    hours: 5
                 }
             ],
             otherJob: [
@@ -479,7 +479,7 @@ let restaurant = [
                     hotalName: "abx name",
                     salary: 8000,
                     timing: "3pm-9pm",
-                    distance: "6km",
+                    distance: "6km"
                 }
             ],
             fasility: "no",
@@ -970,28 +970,6 @@ let restaurant = [
         {
             name: "Doodh Patti Chai",
             price: 60
-        }
-    ],
-    mostOrdered = [
-        {
-            name: "Mutton Shinwari Laham Mandi",
-            price: 950
-        },
-        {
-            name: "Mutton Shinwari Salim Bakra With Rice",
-            price: 14000
-        },
-        {
-            name: "TURKISH FUSION",
-            price: 950
-        },
-        {
-            name: "SOBAT (SHORMA) 3 PERSON",
-            price: 2200
-        },
-        {
-            name: "Mutton Pyaza Karahi",
-            price: 1950
         },
         {
             name: "Chicken Corn Soup (Single Bowl)",
@@ -1016,6 +994,28 @@ let restaurant = [
         {
             name: "Chicken Shashlik Bar B.Q",
             price: 500
+        }
+    ],
+    mostOrdered = [
+        {
+            name: "Mutton Shinwari Laham Mandi",
+            price: 950
+        },
+        {
+            name: "Mutton Shinwari Salim Bakra With Rice",
+            price: 14000
+        },
+        {
+            name: "TURKISH FUSION",
+            price: 950
+        },
+        {
+            name: "SOBAT (SHORMA) 3 PERSON",
+            price: 2200
+        },
+        {
+            name: "Mutton Pyaza Karahi",
+            price: 1950
         }
     ],
     tables = 10000,
