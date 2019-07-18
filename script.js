@@ -1,5 +1,5 @@
 //  Shaheen Shenwari Resturant database.
-let restaurant = [
+let restaurant = {
     restaurantName = "SHAHEEN SHANWARI",
     cheif = [
         {
@@ -1022,4 +1022,4 @@ let restaurant = [
     returantAddress = "Main super highway Gulshan-e-maymar mor Karachi",
     contact = 032652365336,
     about = "Exceptional afghani food and magnificent arabic cusine",
-]
+}
